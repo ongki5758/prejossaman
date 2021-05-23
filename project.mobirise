@@ -57,12 +57,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "(1) Parfum Pria Pelet Pelangsang",
-        "meta_descr": "Parfum Pria. Bisa COD (Bayar di Tempat)",
+        "title": "(1) Bisa COD Bayar di Tempat (bayar setelah Barang Sampai)",
+        "meta_descr": "Bisa COD (Bayar di Tempat)",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/parfum-1024x682.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/photo_2021-01-25_17-17-25-1024x1024.jpg"
       },
       "components": [
         {
